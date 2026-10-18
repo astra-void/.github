@@ -1,10 +1,1 @@
-# Default funding config for @astra-void's public repositories.
-#
-# GitHub uses this file for any repository that doesn't have its own
-# .github/FUNDING.yml. The Sponsor button only appears once Sponsorships is
-# enabled in that repository's settings (Settings → General → Features).
-#
-# Supported platforms and keys:
-# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
-
 github: astra-void
